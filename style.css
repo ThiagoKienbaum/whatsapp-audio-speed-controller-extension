@@ -1,7 +1,27 @@
-.twoTimesButton {
+.playbackRateElement {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;    
+}
+
+.playbackRateElement,
+.decreaseAudioRate, 
+.increaseAudioRate {
     color: gray;
     font-size: 1rem;
     font-weight: bold;
     background-color: transparent;
     border: none;
 }
+.decreaseAudioRate:hover {
+    color: rgb(78, 76, 76);
+}
+.decreaseAudioRate:active { 
+    transform: scale(0.95);          
+}  
+
+.increaseAudioRate:hover {
+            color: rgb(78, 76, 76);
+}
+.increaseAudioRate:active { 
+    transform: scale(0.95);          
+} 
