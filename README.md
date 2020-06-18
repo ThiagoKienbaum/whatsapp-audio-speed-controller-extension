@@ -12,7 +12,7 @@
 
 # whatsapp-audio-speed-controller-extension
 
-> This project is a chrome extension, it adds a button on the WhatsApp web to speed up all audios.
+> This project is a chrome extension, it adds a button on the WhatsApp web to increase an decrease audio speed.
 
 ## Technologies used on this project
 - JavaScript
