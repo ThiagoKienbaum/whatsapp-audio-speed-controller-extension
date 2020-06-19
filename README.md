@@ -14,7 +14,7 @@
 
 > This project is a Chrome/Firefox extension, it adds a button on the WhatsApp web to increase an decrease audio speed.
 
-Install this extension on Firefox Add-ons ![store](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-audio-speed/?src=search).
+Install this extension on Firefox Add-ons [store](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-audio-speed/?src=search).
 
 ## Technologies used on this project
 - JavaScript
