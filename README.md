@@ -22,4 +22,5 @@ Install this on the Firefox Add-ons [store](https://addons.mozilla.org/en-US/fir
 
 ## Meta
 This project was inspired by this [video](https://www.youtube.com/watch?v=j0Ih1xVyKbY).
+
 Thiago Kienbaum – [LinkedIn](https://www.linkedin.com/in/thiago-kienbaum/) – thiago.kienbaum@hotmail.com
